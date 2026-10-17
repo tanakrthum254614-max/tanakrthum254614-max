@@ -4,60 +4,35 @@
 
 <br>
 
-<a href="https://web-tan-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-web--tan--portfolio.vercel.app-d4af5f?style=for-the-badge&labelColor=0a0a0c" alt="Portfolio"></a> <a href="https://gold-signal-ten.vercel.app"><img src="https://img.shields.io/badge/GOLD%20SIGNAL-live-f4ecda?style=for-the-badge&labelColor=0a0a0c" alt="Gold Signal"></a> <a href="https://line.me/R/ti/p/@279arudw"><img src="https://img.shields.io/badge/LINE-@279arudw-06c755?style=for-the-badge&logo=line&logoColor=white&labelColor=0a0a0c" alt="LINE"></a>
+<a href="https://web-tan-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-web--tan--portfolio.vercel.app-d4af5f?style=flat-square&labelColor=0a0a0c" alt="Portfolio"></a>
+<a href="https://gold-signal-ten.vercel.app"><img src="https://img.shields.io/badge/Gold%20Signal-gold--signal--ten.vercel.app-d4af5f?style=flat-square&labelColor=0a0a0c" alt="Gold Signal"></a>
+<img src="https://img.shields.io/badge/Location-Bangkok%2C%20Thailand-d4af5f?style=flat-square&labelColor=0a0a0c" alt="Location">
 
 </div>
 
-### 👋 สวัสดีครับ
+## About
 
-ทำงานสาย **IT (Tech & Software)** ที่กรุงเทพฯ — ชอบสร้างเครื่องมือที่แก้ปัญหาจริงในที่ทำงาน และระบบที่วัดผลได้ด้วยตัวเลขจริง
+ผู้เชี่ยวชาญด้านไอที (Tech & Software) ประจำกรุงเทพมหานคร มีประสบการณ์ทั้งงานสนับสนุนระบบภายในองค์กรและการพัฒนาซอฟต์แวร์ มุ่งเน้นการสร้างเครื่องมือที่แก้ปัญหาการทำงานได้จริง วัดผลได้ และดูแลรักษาง่าย
 
-### ✦ ผลงานเด่น
+*IT specialist in Bangkok working across internal IT operations and software development, focused on practical, measurable and maintainable tools.*
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Selected Projects
 
-**✦ [Gold Signal](https://github.com/tanakrthum254614-max/gold-signal)**<br>
-<sub>เว็บสัญญาณเทรดทองคำ XAU/USD แบบเรียลไทม์ · ทดสอบย้อนหลังหลายปี · เปิดผลจริงทุกไม้ · สมาชิกแบบชำระเงิน (Stripe · PromptPay) · แจ้งเตือน LINE · โค้ช AI</sub>
+| Project | Description | Stack |
+|---|---|---|
+| [**Gold Signal**](https://github.com/tanakrthum254614-max/gold-signal) | แพลตฟอร์มสัญญาณการซื้อขายทองคำ (XAU/USD) แบบเรียลไทม์ พร้อมผลทดสอบย้อนหลังและการเปิดเผยผลการซื้อขายจริงทุกรายการ ระบบสมาชิกแบบชำระเงิน และการแจ้งเตือนอัตโนมัติ | JavaScript · Vercel · GitHub Actions · Stripe · LINE API |
+| [**IT Asset Tracker**](https://github.com/tanakrthum254614-max/it-asset-tracker) | ระบบทะเบียนครุภัณฑ์ไอที ทดแทนการบันทึกด้วย Excel พร้อมป้าย QR ประวัติการส่งมอบ และการติดตามระยะประกัน | Node.js · Vercel · Redis |
+| [**IT Expiry Alert**](https://github.com/tanakrthum254614-max/it-expiry-alert) | ระบบแจ้งเตือนล่วงหน้าก่อนใบรับรอง SSL โดเมน ลิขสิทธิ์ซอฟต์แวร์ และสัญญาบำรุงรักษาหมดอายุ | Node.js · Vercel Cron · Redis |
+| [**IT Runbook**](https://github.com/tanakrthum254614-max/it-runbook) | ศูนย์รวมขั้นตอนแก้ไขปัญหาไอทีเบื้องต้นสำหรับผู้ใช้งาน เพื่อลดปริมาณคำร้องต่อฝ่ายสนับสนุน | Node.js · Vercel · Redis |
+| [**Portfolio**](https://github.com/tanakrthum254614-max/tan-portfolio) | เว็บไซต์แฟ้มผลงานส่วนบุคคล ประวัติการทำงาน การศึกษา ทักษะ และผลงาน | HTML · CSS · JavaScript |
 
-</td>
-<td width="50%" valign="top">
+## Technical Skills
 
-**👨‍💻 [Portfolio](https://github.com/tanakrthum254614-max/tan-portfolio)**<br>
-<sub>เว็บพอร์ตโฟลิโอส่วนตัว — ประสบการณ์ · ทักษะ · ผลงาน · ใบประกาศ</sub>
+**Languages** &nbsp; JavaScript (Node.js) · Python · HTML · CSS · SQL<br>
+**Platforms** &nbsp; Vercel (Serverless, Cron, Blob) · GitHub Actions · Redis (Upstash)<br>
+**Integrations** &nbsp; Stripe (Card, PromptPay) · LINE Messaging API · Web Push · Clerk Authentication<br>
+**IT Operations** &nbsp; Helpdesk & End-user Support · Asset Management · License & Certificate Management
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+## Contact
 
-**🛠️ [IT Runbook](https://github.com/tanakrthum254614-max/it-runbook)**<br>
-<sub>หน้ารวมวิธีแก้ปัญหา IT ให้ user แก้เองก่อนเปิด ticket · สถิติลด ticket</sub>
-
-</td>
-<td valign="top">
-
-**⏰ [IT Expiry Alert](https://github.com/tanakrthum254614-max/it-expiry-alert)**<br>
-<sub>เตือนก่อน SSL · โดเมน · License · สัญญา MA หมดอายุ ผ่าน LINE / Slack / Telegram</sub>
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**💻 [IT Asset Tracker](https://github.com/tanakrthum254614-max/it-asset-tracker)**<br>
-<sub>ทะเบียนอุปกรณ์ IT แทน Excel · ป้าย QR · ประวัติส่งมอบ · ประกัน · CSV</sub>
-
-</td>
-<td valign="top">
-
-</td>
-</tr>
-</table>
-
-### ✦ เครื่องมือที่ใช้
-
-<img src="https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Node.js-3c873a?logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088ff?logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Stripe-635bff?logo=stripe&logoColor=white" alt="Stripe"> <img src="https://img.shields.io/badge/Redis-dc382d?logo=redis&logoColor=white" alt="Redis"> <img src="https://img.shields.io/badge/LINE%20API-06c755?logo=line&logoColor=white" alt="LINE">
-
-<div align="center"><sub>Bangkok, Thailand 🇹🇭</sub></div>
+Portfolio — [web-tan-portfolio.vercel.app](https://web-tan-portfolio.vercel.app) &nbsp;·&nbsp; LINE Official — [@279arudw](https://line.me/R/ti/p/@279arudw)
