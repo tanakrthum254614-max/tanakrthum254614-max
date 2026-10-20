@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://web-tan-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-web--tan--portfolio.vercel.app-d4af5f?style=flat-square&labelColor=0a0a0c" alt="Portfolio"></a>
-<a href="https://gold-signal-ten.vercel.app"><img src="https://img.shields.io/badge/Gold%20Signal-gold--signal--ten.vercel.app-d4af5f?style=flat-square&labelColor=0a0a0c" alt="Gold Signal"></a>
+<a href="https://gold-signal.gold-signal.workers.dev"><img src="https://img.shields.io/badge/Gold%20Signal-gold--signal.workers.dev-d4af5f?style=flat-square&labelColor=0a0a0c" alt="Gold Signal"></a>
 <a href="https://thander-usage.vercel.app"><img src="https://img.shields.io/badge/Thander-thander--usage.vercel.app-48dfff?style=flat-square&labelColor=0a0a0c" alt="Thander Usage"></a>
 <img src="https://img.shields.io/badge/Location-Bangkok%2C%20Thailand-d4af5f?style=flat-square&labelColor=0a0a0c" alt="Location">
 
@@ -21,7 +21,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Gold Signal**](https://github.com/tanakrthum254614-max/gold-signal) | แพลตฟอร์มสัญญาณการซื้อขายทองคำ (XAU/USD) แบบเรียลไทม์ พร้อมผลทดสอบย้อนหลังและการเปิดเผยผลการซื้อขายจริงทุกรายการ ระบบสมาชิกแบบชำระเงิน และการแจ้งเตือนอัตโนมัติ | JavaScript · Vercel · GitHub Actions · Stripe · LINE API |
+| [**Gold Signal**](https://github.com/tanakrthum254614-max/gold-signal) | แพลตฟอร์มสัญญาณการซื้อขายทองคำ (XAU/USD) แบบเรียลไทม์ พร้อมผลทดสอบย้อนหลังและการเปิดเผยผลการซื้อขายจริงทุกรายการ ระบบสมาชิกแบบชำระเงิน และการแจ้งเตือนอัตโนมัติ | JavaScript · Cloudflare Workers · Supabase · GitHub Actions · Stripe · LINE API |
 | [**Thander Usage**](https://github.com/tanakrthum254614-max/thander-usage) | มาสคอตหุ่นยนต์สายฟ้าบน Windows สำหรับดูโควตา Claude และ Codex พร้อมท่าโบกมือและภาษาไทย · [เว็บและเดโม](https://thander-usage.vercel.app/) · [ดาวน์โหลด](https://github.com/tanakrthum254614-max/thander-usage/releases/latest) | Electron · Node.js · SVG · Vercel |
 | [**IT Asset Tracker**](https://github.com/tanakrthum254614-max/it-asset-tracker) | ระบบทะเบียนครุภัณฑ์ไอที ทดแทนการบันทึกด้วย Excel พร้อมป้าย QR ประวัติการส่งมอบ และการติดตามระยะประกัน | Node.js · Vercel · Redis |
 | [**IT Expiry Alert**](https://github.com/tanakrthum254614-max/it-expiry-alert) | ระบบแจ้งเตือนล่วงหน้าก่อนใบรับรอง SSL โดเมน ลิขสิทธิ์ซอฟต์แวร์ และสัญญาบำรุงรักษาหมดอายุ | Node.js · Vercel Cron · Redis |
